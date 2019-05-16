@@ -56,7 +56,7 @@ public class SnakeModel extends GameModel {
 
 	/** Graphical representation of the snake's head */
 	private static final GameTile SNAKE_HEAD_TILE = new RectangularTile(Color.green);
-	
+	//prueba
 	/** Graphical representation of a blank tile. */
 	private static final GameTile BLANK_TILE = new GameTile();
 
