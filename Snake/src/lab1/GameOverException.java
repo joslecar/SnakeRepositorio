@@ -12,7 +12,7 @@ public class GameOverException extends Exception {
 	 * @param score The final score of the game.
 	 */
 	public GameOverException(final int score) {
-		this.score = score;
+		this.score = score*3;
 	}
 
 	/** Get the score of the game */
