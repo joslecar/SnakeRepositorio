@@ -57,7 +57,7 @@ public class GoldModel extends GameModel {
 	/** Graphical representation of a coin. */
 	private static final GameTile COIN_TILE = new RoundTile(new Color(0, 0,
 			255),
-			new Color(0, 255, 0), 2.0);
+			new Color(0, 255, 255), 2.0);
 
 	
 			
